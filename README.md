@@ -7,3 +7,6 @@ Copyright (c) 2022 Qilu University of Technology, School of Computer Science and
 All rights reserved.
 
 Copyright Owner's Authorization: Shandong ShiChuang Software Training Institute of Ambo Education Group has the right to consult, modify, and release part or all of the source code of this software product on the premise of informing the right holder for the purpose of the C language course training of Qilu University of Technology Grade 2021.
+
+## Statistics of Visiting Numbers
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SIMS-system-CPP" /></div> 
